@@ -22,6 +22,6 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 
 ## Challange Progress
 
-### Week 1: April 1st - April 7th
+### Week 1: April 1st - April 7th - [link]
 
-* 4/1: [Single Number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/) - [solved]()
+* 4/1: [Single Number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/1_Single-Number.cpp)
