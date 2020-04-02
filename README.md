@@ -24,4 +24,5 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 
 ### Week 1: April 1st - April 7th
 
-* 4/1: [Single Number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/1_Single-Number.cpp)
+* 4/1: [Single Number](https://leetcode.com/problems/single-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/1_Single-Number.cpp)
+* 4/2: [Happy Number](https://leetcode.com/problems/happy-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/2_Happy-Number.cpp)
