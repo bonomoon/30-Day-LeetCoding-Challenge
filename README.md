@@ -27,3 +27,4 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/1: [Single Number](https://leetcode.com/problems/single-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/1_Single-Number.cpp)
 * 4/2: [Happy Number](https://leetcode.com/problems/happy-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/2_Happy-Number.cpp)
 * 4/3: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [solved 1](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/3-1_Maximum_Subarray.cpp), [solved 2](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/3-2_Maximum_Subarray.cpp)
+* 4/4: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/4_Move_Zeroes.cpp)
