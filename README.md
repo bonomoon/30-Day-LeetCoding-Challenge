@@ -28,3 +28,4 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/2: [Happy Number](https://leetcode.com/problems/happy-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/2_Happy-Number.cpp)
 * 4/3: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [solved 1](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/3-1_Maximum_Subarray.cpp), [solved 2](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/3-2_Maximum_Subarray.cpp)
 * 4/4: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/4_Move_Zeroes.cpp)
+* 4/5 [Best Time to Buy and Sell Stock II]() - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/5_Best_Time_to_Buy_and_Sell_Stock_II.cpp)
