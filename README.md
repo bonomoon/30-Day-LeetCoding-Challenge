@@ -30,3 +30,4 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/4: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/4_Move_Zeroes.cpp)
 * 4/5 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/5_Best_Time_to_Buy_and_Sell_Stock_II.cpp)
 * 4/6 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/6_Group_Anagrams.cpp)
+* 4/7 Counting Elements - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/7_Counting_Elements.cpp)
