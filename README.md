@@ -31,3 +31,7 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/5 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/5_Best_Time_to_Buy_and_Sell_Stock_II.cpp)
 * 4/6 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/6_Group_Anagrams.cpp)
 * 4/7 Counting Elements - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/7_Counting_Elements.cpp)
+
+### Week 2: April 8th - April 14th
+
+* 4/8 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/8_Middle_of_the_Linked_List.cpp)

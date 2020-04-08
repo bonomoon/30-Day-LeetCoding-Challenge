@@ -34,13 +34,7 @@ public:
         
         for_each(strs.begin(), strs.end(), [this, &groups](const string& value) {
             string key = this->makeKey(value);
-
-            if(groups.find(key) != groups.end()) {
-                groups[key].push_back(value);
-            } else {
-                vector<string> temp{value};
-                groups.insert(make_pair(key, temp));
-            } 
+            groups[key].push_back(value);
         });
             
         for_each(groups.begin(), groups.end(), [&strGroups](const auto& pair) {
