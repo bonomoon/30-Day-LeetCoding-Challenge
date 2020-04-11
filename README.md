@@ -35,3 +35,5 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 ### Week 2: April 8th - April 14th
 
 * 4/8 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/8_Middle_of_the_Linked_List.cpp)
+* 4/9 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/9_Backspace_String_Compare.cpp)
+* 4/10 [Min Stack](https://leetcode.com/problems/min-stack/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/10_Min_Stack.cpp)
