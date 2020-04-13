@@ -37,3 +37,5 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/8 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/8_Middle_of_the_Linked_List.cpp)
 * 4/9 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/9_Backspace_String_Compare.cpp)
 * 4/10 [Min Stack](https://leetcode.com/problems/min-stack/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/10_Min_Stack.cpp)
+* 4/11 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) 
+* 4/12 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/12_Last_Stone_Weight.cpp)
