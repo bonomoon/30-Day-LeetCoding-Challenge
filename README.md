@@ -39,3 +39,5 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/10 [Min Stack](https://leetcode.com/problems/min-stack/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/10_Min_Stack.cpp)
 * 4/11 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) 
 * 4/12 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/12_Last_Stone_Weight.cpp)
+* 4/13 [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+* 4/14 Perform String Shift - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/14_Perform_String_Shifts.cpp)
