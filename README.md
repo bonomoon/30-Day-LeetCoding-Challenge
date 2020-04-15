@@ -41,3 +41,7 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/12 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/12_Last_Stone_Weight.cpp)
 * 4/13 [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 * 4/14 Perform String Shift - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week2/14_Perform_String_Shifts.cpp)
+
+### Week 3: April 15th - April 21th
+
+* 4/15 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week3/15_Product_of_Array_Except_Self.cpp)
