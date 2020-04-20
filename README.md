@@ -45,3 +45,7 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 ### Week 3: April 15th - April 21th
 
 * 4/15 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week3/15_Product_of_Array_Except_Self.cpp)
+* 4/16 [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+* 4/17 [Number os Islands](https://leetcode.com/problems/number-of-islands/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week3/17_Number_of_Islands.cpp)
+* 4/18 [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+* 4/19 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
