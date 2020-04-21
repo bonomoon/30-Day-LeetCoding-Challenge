@@ -49,3 +49,5 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/17 [Number os Islands](https://leetcode.com/problems/number-of-islands/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week3/17_Number_of_Islands.cpp)
 * 4/18 [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 * 4/19 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* 4/21 [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+* 4/22 Leftmost Column with at Least a One - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week3/20_Leftmost_Column_with_at_Least_a_One.cpp)
