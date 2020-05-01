@@ -9,4 +9,5 @@ This Challenge is beginner-friendly and available to both Premium and non-Premiu
 
 ## Challange Progress
 
-### Week 1: April 1st - April 7th
+### Week 1: May 1st - May 7th
+* 5/1 [First Bad Version](https://leetcode.com/problems/first-bad-version/) - [solved](https://github.com/bonomoon/LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/Week1/1_First_Bad_Version.cpp)
