@@ -8,5 +8,5 @@
 Solve Programming Problems with LeetCode!
 
 ## Challenge Progress
-* [30-Day LeetCoding Challenge](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/30-Day-LeetCoding-Challenge/)
-* [May LeetCoding Challenge](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/May-LeetCoding-Challenge/)
+* [30-Day LeetCoding Challenge](30-Day-LeetCoding-Challenge/)
+* [May LeetCoding Challenge](May-LeetCoding-Challenge/)
