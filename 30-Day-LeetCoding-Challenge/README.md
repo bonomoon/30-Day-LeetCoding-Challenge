@@ -25,13 +25,13 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 
 ### Week 1: April 1st - April 7th
 
-* 4/1: [Single Number](https://leetcode.com/problems/single-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/1_Single-Number.cpp)
-* 4/2: [Happy Number](https://leetcode.com/problems/happy-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/2_Happy-Number.cpp)
-* 4/3: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [solved 1](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/3-1_Maximum_Subarray.cpp), [solved 2](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/3-2_Maximum_Subarray.cpp)
-* 4/4: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/4_Move_Zeroes.cpp)
-* 4/5 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/5_Best_Time_to_Buy_and_Sell_Stock_II.cpp)
-* 4/6 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/6_Group_Anagrams.cpp)
-* 4/7 Counting Elements - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week1/7_Counting_Elements.cpp)
+* 4/1: [Single Number](https://leetcode.com/problems/single-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/30-Day-LeetCoding-Challenge/Week1/1_Single-Number.cpp)
+* 4/2: [Happy Number](https://leetcode.com/problems/happy-number/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/30-Day-LeetCoding-Challenge/Week1/2_Happy-Number.cpp)
+* 4/3: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [solved 1](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/30-Day-LeetCoding-Challenge/Week1/3-1_Maximum_Subarray.cpp), [solved 2](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/Week1/3-2_Maximum_Subarray.cpp)
+* 4/4: [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/tree/master/30-Day-LeetCoding-Challenge/Week1/4_Move_Zeroes.cpp)
+* 4/5 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/30-Day-LeetCoding-Challenge/Week1/5_Best_Time_to_Buy_and_Sell_Stock_II.cpp)
+* 4/6 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/30-Day-LeetCoding-Challenge/Week1/6_Group_Anagrams.cpp)
+* 4/7 Counting Elements - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/30-Day-LeetCoding-Challenge/Week1/7_Counting_Elements.cpp)
 
 ### Week 2: April 8th - April 14th
 
@@ -54,3 +54,6 @@ Good luck, and happy coding! We wish you all the best with your interview prepar
 * 4/22 Leftmost Column with at Least a One - [solved](https://github.com/bonomoon/30-Day-LeetCoding-Challenge/blob/master/Week3/20_Leftmost_Column_with_at_Least_a_One.cpp)
 
 ### Week 4: April 22nd - April 28th
+
+* 4/23 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - [solved](Week4/22_Subarray_Sum_Equals_K.cpp)
+* 4/25 [LRU Cache](https://leetcode.com/problems/lru-cache/) - [solved](Week4/24_LRU_Cache.cpp)
