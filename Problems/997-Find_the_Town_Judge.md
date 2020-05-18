@@ -1,4 +1,4 @@
-## cpp
+### cpp
 
 ```cpp
 class Solution {
@@ -21,7 +21,7 @@ public:
 };
 ```
 
-## javascript
+### javascript
 
 ```javascript
 /**
