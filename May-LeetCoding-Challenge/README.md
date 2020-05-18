@@ -24,3 +24,4 @@ This Challenge is beginner-friendly and available to both Premium and non-Premiu
 
 * 5/8 [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) - [solved](Week2/8_Check_If_Is_a_Straight_Line.js)
 * 5/9 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - [solved](Week2/9_Valid_Perfect_Square.js)
+* 5/10 [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) - [solved](Week2/10_Find_the_Town_Judge.md)
